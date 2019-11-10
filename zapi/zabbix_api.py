@@ -3,6 +3,8 @@
 """
 Zabbix api wrapper
 
+MOVE AUTH FROM request
+ADD exeprion handle  auth
 """
 import os
 import requests
