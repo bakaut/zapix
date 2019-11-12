@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="zapi", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Nikolay Lebedev",
     author_email="fifo.mail@gmail.com",
     description="Zabbix api wrapper",
